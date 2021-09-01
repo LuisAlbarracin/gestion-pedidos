@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/home/luis-albarracin/NetBeansProjects/GestionPedidoApp/src/tk/luisalbarracin/gestionpedidoapp/dao/ProductoDao.java</file>
-            <file>file:/home/luis-albarracin/NetBeansProjects/GestionPedidoApp/src/tk/luisalbarracin/gestionpedidoapp/services/ServicioPedidos.java</file>
-            <file>file:/home/luis-albarracin/NetBeansProjects/GestionPedidoApp/src/tk/luisalbarracin/gestionpedidoapp/services/ServicioOrden.java</file>
-            <file>file:/home/luis-albarracin/NetBeansProjects/GestionPedidoApp/src/tk/luisalbarracin/gestionpedidoapp/services/ServicioClientes.java</file>
-            <file>file:/home/luis-albarracin/NetBeansProjects/GestionPedidoApp/src/tk/luisalbarracin/gestionpedidoapp/dao/PedidoDao.java</file>
-            <file>file:/home/luis-albarracin/NetBeansProjects/GestionPedidoApp/src/tk/luisalbarracin/gestionpedidoapp/dao/ClienteDao.java</file>
-            <file>file:/home/luis-albarracin/NetBeansProjects/GestionPedidoApp/src/tk/luisalbarracin/gestionpedidoapp/model/Orden.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
